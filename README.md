@@ -1,3 +1,3 @@
 # HackerRank
 
-This repository contains code from HackerRank problems solved
+## This repository contains solved java code problems from HackerRank
